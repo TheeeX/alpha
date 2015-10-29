@@ -65,7 +65,7 @@ echo "
     <form accept-charset='UTF-8' id='form_sign_up' method='post' role='form' action='' style='top: -65px!important;'>
       <div class='row links'>
         <div class='col s6 logo'>
-          <img src='assets/_con/images/logo-white.jpg' alt='' style='width:40px;height:40px;'>
+          <img src='assets/_con/images/logo-white.jpg' alt='' style='height:40px;'>
         </div>
         <div class='col s6 right-align'><a href='page-sign-in.html'>Sign In</a> / <strong>Sign Up</strong>
         </div>
