@@ -488,7 +488,7 @@ echo"
   <!-- [ Container #1 ] -->
   <!--********************-->
 
-  <div class='col m12 l3'>
+  <div class='col s12 m12 l3'>
   
   <!-- Statistics -->
         <div class='card profile-skills'>
@@ -722,7 +722,7 @@ echo"
   <!-- [ Container #2.1 ] -->
   <!--********************-->
 
-  <div class='col m12 l3'>
+  <div class='col s12 m12 l3'>
   
   <!-- Statistics -->
         <div class='card profile-skills'>
@@ -956,7 +956,7 @@ echo"
   <!-- [ Container #2.2 ] -->
   <!--********************-->
   
-  <div class='col m12 l3'>
+  <div class='col s12 m12 l3'>
   
         <div class='card-panel'>
              <form action='' accept-charset='UTF-8' id='form_update_post' method='post' role='form' >
@@ -1100,10 +1100,10 @@ echo"
   <!-- [ Container #3 ] -->
   <!--********************-->
   
-  <div class='col m12 l3'>
+  <div class='col s12 m12 l3'>
   
         <!-- Customer -->
-          <div class='card'>
+          <div class='card profile-skills'>
             <div class='title'>
               <h5>Artists</h5>
                <a class='close' href='#'>
