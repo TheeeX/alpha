@@ -7,9 +7,9 @@ $dbname = 'artistarc_alpha';
 //$m = new MongoClient();
 $m = new MongoClient( "mongodb://karanjeet96:wazxdws123@ds052408.mongolab.com:52408/artistarc_alpha" ); // connect to a remote host at a given port
 
-//$uri = "mongodb://karanjeet96:wazxdws123@ds052408.mongolab.com:52408/artistarc_alpha";
+//$uri = "mongodb://karanjeet96:wazxdws123@ds052408.mongolab.com:52408";
 //$options = array("connectTimeoutMS" => 30000, "replicaSet" => "replicaSetName");
-//$m = new MongoClient($uri, $options);
+//$m = new Mongo($host, array("replicaSet" => "rs"));
 
   echo "Connection to database successfully<br>";
 //select database
