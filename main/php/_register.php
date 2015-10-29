@@ -3,7 +3,7 @@
 include 'connect.php';
 
 // select the collection
-$collection = $db->art_user;
+$collection = $db->artist_reg;
 
 echo "wtf";
 
@@ -12,7 +12,7 @@ $document = array(
       "lname" => $_POST['input_lname'],  
       "email" => $_POST['input_email'], 
       "username" => $_POST['input_username'], 
-      "paswrd" => $_POST['input_password'],
+      "pass" => $_POST['input_password'],
       "dob" => $_POST['input_dob'], 
       "class" => $_POST['input_class']
    );
