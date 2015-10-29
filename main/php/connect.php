@@ -9,12 +9,13 @@ $m = new MongoClient( "mongodb://karanjeet96:wazxdws123@ds052408.mongolab.com:52
 
   echo "Connection to database successfully<br>";
 //select database
-$db = $m->$dbname;
-  echo "Database ". $dbname ." selected<br>";
+//$db = $m->$dbname;
+//  echo "Database ". $dbname ." selected<br>";
 
 // select the collection
-$collection = $db->artist_reg;
+//$collection = $db->artist_reg;
 // pull a query
+/*
 $cursor = $collection->find();
  
  echo "success!<br>";
@@ -22,5 +23,5 @@ $cursor = $collection->find();
  foreach ($cursor as $document) {
       echo $document["name"] . "\n";
    }
-
+*/
 ?>
