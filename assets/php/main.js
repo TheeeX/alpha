@@ -132,10 +132,10 @@ $(document).ready(function() {
 
 /*------------/ Ad Comment ---------------*/
 $(window).scroll(function() {
-    if ($(document).scrollTop() < 50) {
+    if ($(document).scrollTop() < 100) {
         $('.navbar-top').removeClass('artist-header_shrink');
     }
-    if ($(document).scrollTop() > 30) {
+    if ($(document).scrollTop() > 100) {
 	   $('.navbar-top').addClass('artist-header_shrink');
 	}
 });
@@ -150,14 +150,14 @@ $('#body').bind('mousewheel DOMMouseScroll', function (event) {
      else {
           //down
 	  // alert('down');
-	     if ($(document).scrollTop() > 50) {
+	     if ($(document).scrollTop() > 100) {
 	         $('.navbar-top').addClass('artist-header_shrink');
 	     }
      }
 });
 
 $(document).ready(function() {
- 	if ($(document).scrollTop() > 30) {
+ 	if ($(document).scrollTop() > 100) {
 	   $('.navbar-top').addClass('artist-header_shrink');
 	}
 });
