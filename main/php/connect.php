@@ -7,15 +7,19 @@ $dbname = 'artistarc_alpha';
 //$m = new MongoClient();
 $m = new MongoClient( "mongodb://karanjeet96:wazxdws123@ds052408.mongolab.com:52408/artistarc_alpha" ); // connect to a remote host at a given port
 
+//$uri = "mongodb://karanjeet96:wazxdws123@ds052408.mongolab.com:52408/artistarc_alpha";
+//$options = array("connectTimeoutMS" => 30000, "replicaSet" => "replicaSetName");
+//$m = new MongoClient($uri, $options);
+
   echo "Connection to database successfully<br>";
 //select database
-//$db = $m->$dbname;
+$db = $m->$dbname;
 //  echo "Database ". $dbname ." selected<br>";
 
 // select the collection
-//$collection = $db->artist_reg;
+$collection = $db->artist_reg;
 // pull a query
-/*
+
 $cursor = $collection->find();
  
  echo "success!<br>";
@@ -23,5 +27,5 @@ $cursor = $collection->find();
  foreach ($cursor as $document) {
       echo $document["name"] . "\n";
    }
-*/
+
 ?>
