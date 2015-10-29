@@ -1,9 +1,7 @@
 <?php
 // Config
-$dbhost = 'localhost';
 $dbname = 'artistarc_alpha';
- 
- 
+  
 try{
  
 // connect to mongodb MongoLab
@@ -41,6 +39,6 @@ $cursor = $collection->find();
         <title>home</title>
     </head>
     <body>
-        sknsdksndk
+        <br>sknsdksndk
     </body>
 </html>
