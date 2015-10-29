@@ -140,20 +140,21 @@ echo"
             </li>
           </ul>
         </li>
+
         <li class='user li-auto-width' style='background-color: red;'>
           <a class='dropdown-button' href='page-profile.html#!' data-constrainwidth='false'  data-hover='true' data-induration='500' data-outduration='300' data-activates='user-create-dropdown'>
             <i class='fa fa-plus-square-o center' style='font-size:31px!important'></i>
           </a>
 
           <ul id='user-create-dropdown' class='t-55 dropdown-content'>
-            <li><a href='page-profile.html'><i class='fa fa-user'></i> ".$_SESSION['UserName']."</a>
+            <li><a href='page-profile.html'>Create Troupe</a>
             </li>
-            <li><a href='mail-inbox.html'><i class='fa fa-envelope'></i> Messages <span class='badge new'>2</span></a>
+            <li><a href='mail-inbox.html'>Create Project</a>
             </li>
-            <li><a href='page-profile.html#!'><i class='fa fa-cogs'></i> Settings</a>
+            <li><a href='page-profile.html#!'>Edit Tool</a>
             </li>
             <li class='divider'></li>
-            <li><a href='assets/php/_logout.php'><i class='fa fa-sign-out'></i> Logout</a>
+            <li><a href='assets/php/_logout.php'><i class='fa fa-sign-out'></i>More..</a>
             </li>
           </ul>
         </li>

@@ -3,12 +3,14 @@ $(document).ready(function() {
 	   $('.navbar-top').addClass('artist-header_shrink');
 	}
 });
+
 /* [ stream ] */
-$('.navbar-top').click(function(event) {
+/*$('.navbar-top').click(function(event) {
 	$('#stream').toggleClass('active');
 	});
+*/
 
 $('#stream-call').click(function (event) {
 	    //alert('now');
-	    $('#stream').show('toggle');
+	    $('#stream').toggleClass('active');
 	});
