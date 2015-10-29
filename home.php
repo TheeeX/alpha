@@ -981,8 +981,8 @@ echo "
 	             <i class='mdi-navigation-expand-less'></i>
 	          </a>
 	     </div>
-	     <figure class='hover-effect effect-zoe'>
-		<img src='assets/_con/images/image-2.jpeg' style='min-width:0px!important;'>
+	     <figure class='hover-effect effect-zoe' style='min-width:0px!important;'>
+		<img src='assets/_con/images/image-2.jpeg'>
 <!-- 	        <span class='card-title' style='background'>Card Title</span> -->
 		      <figcaption>
                            <h2>Creative <span>Zoe</span></h2>
