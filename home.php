@@ -480,7 +480,7 @@ echo "
 <!-- [ Main Container ] -->
 <!--********************-->
 
-  <div class='row sortable'>
+  <div class='row '>
   
   <!--********************-->
   <!-- [ Container #1 ] -->
