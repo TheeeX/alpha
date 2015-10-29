@@ -1,7 +1,7 @@
 <?php
 // Config
 $dbhost = 'localhost';
-$dbname = 'artistarc_beta';
+$dbname = 'artistarc_alpha';
  
 // connect to mongodb
 //$m = new MongoClient();
