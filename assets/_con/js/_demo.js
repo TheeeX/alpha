@@ -58,7 +58,7 @@
         UnderSidebar: 'navbar-under',
         Color: {
           Dark: 'navbar-dark',
-          Light: 'navbar-dark'
+          Light: 'navbar-light'
         }
       },
       Chat: {
@@ -66,7 +66,7 @@
           Dark: 'chat-dark',
           Light: 'chat-light'
         }
-      },
+      }
     };
 
     this.init();
