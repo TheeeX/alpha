@@ -98,8 +98,8 @@ echo"
       .navbar-static - static navbar
       .navbar-under - under sidebar
 -->
-  <nav class='navbar-top artist-header navbar-dark'>
-    <div class='nav-wrapper'>
+  <nav class='navbar-top artist-header navbar-dark maxh-55p'>
+    <div class='nav-wrapper maxh-55p'>
 
       <!-- Sidebar toggle -->
       <a href='page-profile.html#' class='yay-toggle'>
