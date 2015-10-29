@@ -59,7 +59,7 @@ echo "
     <form action='assets/php/_signin.php' accept-charset='UTF-8' id='form_sign_in' method='post' role='form' >
       <div class='row links'>
         <div class='col s6 logo'>
-          <img src='assets/_con/images/logo.png' alt=''>
+          <img src='assets/_con/images/logo-white.jpg' alt=''>
         </div>
         <div class='col s6 right-align'><strong>Sign In</strong> / <a href='page-sign-up.html'>Sign Up</a>
         </div>
