@@ -956,7 +956,7 @@ echo "
   
   <div class='col m12 l3'>
   
-        <div class='card-panel'>
+        <div class='card'>
              <form action='' accept-charset='UTF-8' id='form_update_post' method='post' role='form' >
                    <!-- To -->
                    <div class='input-field'>
