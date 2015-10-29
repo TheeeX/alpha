@@ -486,7 +486,7 @@ echo "
   <!-- [ Container #1 ] -->
   <!--********************-->
 
-  <div class='col s12 l3'>
+  <div class='col m12 l3'>
   
   <!-- Statistics -->
         <div class='card profile-skills'>
@@ -501,11 +501,11 @@ echo "
           </div>
           <div class='content'>
             <div class='row center-align' style='margin-top: 0'>
-              <div class='col m6 s12'>
+              <div class='col m6 m12'>
                 <strong>12</strong>
                 <h5>Following</h5>
               </div>
-              <div class='col m6 s12'>
+              <div class='col m6 m12'>
                 <strong>12</strong>
                 <h5>Followers</h5>
               </div>
@@ -599,17 +599,17 @@ echo "
           <div class='content'>
             <div class='row ' style='margin-top: 0'>
             
-              <div class='col m12 s12'>
+              <div class='col m12 m12'>
                 <strong><h5>FaadFactory<span class='badge'>1</span></h5></strong>
                 <!-- &nbsp;&nbsp;&nbsp;13 -->
               </div>
               
-              <div class='col m12 s12' style='padding-bottom:0px; padding-right: 33px;'>
+              <div class='col m12 m12' style='padding-bottom:0px; padding-right: 33px;'>
                 <strong><h5>Tesico<span class='new badge'>4</span></h5></strong>
                 <!-- &nbsp;&nbsp;&nbsp;27 -->
               </div>
 
-              <div class='col m12 s12' style='padding-bottom:'>
+              <div class='col m12 m12' style='padding-bottom:'>
                 <h4><strong>
                 <a class='waves-effect  waves-light modal-trigger right' href='#modal1' data-dismissible='true' data-opacity='0.6' data-induration='400' data-outduration='300'>
                 &nbsp;<span class='new mdi-social-group-add right'></span>
@@ -720,7 +720,7 @@ echo "
   <!-- [ Container #2.1 ] -->
   <!--********************-->
 
-  <div class='col s12 l3'>
+  <div class='col m12 l3'>
   
   <!-- Statistics -->
         <div class='card profile-skills'>
@@ -735,11 +735,11 @@ echo "
           </div>
           <div class='content'>
             <div class='row center-align' style='margin-top: 0'>
-              <div class='col m6 s12'>
+              <div class='col m6 m12'>
                 <strong>12</strong>
                 <h5>Following</h5>
               </div>
-              <div class='col m6 s12'>
+              <div class='col m6 m12'>
                 <strong>12</strong>
                 <h5>Followers</h5>
               </div>
@@ -833,17 +833,17 @@ echo "
           <div class='content'>
             <div class='row ' style='margin-top: 0'>
             
-              <div class='col m12 s12'>
+              <div class='col m12 m12'>
                 <strong><h5>FaadFactory<span class='badge'>1</span></h5></strong>
                 <!-- &nbsp;&nbsp;&nbsp;13 -->
               </div>
               
-              <div class='col m12 s12' style='padding-bottom:0px; padding-right: 33px;'>
+              <div class='col m12 m12' style='padding-bottom:0px; padding-right: 33px;'>
                 <strong><h5>Tesico<span class='new badge'>4</span></h5></strong>
                 <!-- &nbsp;&nbsp;&nbsp;27 -->
               </div>
 
-              <div class='col m12 s12' style='padding-bottom:'>
+              <div class='col m12 m12' style='padding-bottom:'>
                 <h4><strong>
                 <a class='waves-effect  waves-light modal-trigger right' href='#modal1' data-dismissible='true' data-opacity='0.6' data-induration='400' data-outduration='300'>
                 &nbsp;<span class='new mdi-social-group-add right'></span>
@@ -954,7 +954,7 @@ echo "
   <!-- [ Container #2.2 ] -->
   <!--********************-->
   
-  <div class='col s12 l3'>
+  <div class='col m12 l3'>
   
         <div class='card-panel'>
              <form action='' accept-charset='UTF-8' id='form_update_post' method='post' role='form' >
@@ -1016,7 +1016,7 @@ echo "
                  <li>
                     <div class='collapsible-header'>
                       <form action='' accept-charset='UTF-8' id='form_add_comment' method='post' role='form' >
-                         <div class='row'><div class='col s12 l12 input-field'>
+                         <div class='row'><div class='col m12 l12 input-field'>
                               <i class='mdi-communication-chat prefix'></i>
                               <input id='comment_body' type='text' name='comment_body' class='validate' placeholder='Comment'>
                          </div>
@@ -1052,11 +1052,11 @@ echo "
           </div>
           <div class='content'>
             <div class='row center-align' style='margin-top: 0'>
-              <div class='col m6 s12'>
+              <div class='col m6 m12'>
                 <strong>87</strong>
                 <h5>Following</h5>
               </div>
-              <div class='col m6 s12'>
+              <div class='col m6 m12'>
                 <strong>12</strong>
                 <h5>Followers</h5>
               </div>
@@ -1073,7 +1073,7 @@ echo "
   <!-- [ Container #3 ] -->
   <!--********************-->
   
-  <div class='col s12 l3'>
+  <div class='col m12 l3'>
   
         <!-- Customer -->
           <div class='card'>
@@ -1090,11 +1090,11 @@ echo "
 
               <div class='row no-margin-top'>
               
-                <div class='col s12 l5'>
+                <div class='col m12 l5'>
                   <img width='100' src='assets/_con/images/user4.jpg' alt='Patsy Griffin' class='circle photo'>
                 </div>
                 
-                <div class='col s12 l7'>
+                <div class='col m12 l7'>
                   <h4>Patsy Griffin</h4>
                   6008 Cotton Nook, Arminto,
                   <br>Montana, 59114-7319, US,
@@ -1154,11 +1154,11 @@ echo "
           </div>
           <div class='content'>
             <div class='row center-align' style='margin-top: 0'>
-              <div class='col m6 s12'>
+              <div class='col m6 m12'>
                 <strong>87</strong>
                 <h5>Following</h5>
               </div>
-              <div class='col m6 s12'>
+              <div class='col m6 m12'>
                 <strong>12</strong>
                 <h5>Followers</h5>
               </div>
@@ -1220,7 +1220,7 @@ echo "
         <!-- / search 2 test -->
         
           <div class='row'>
-            <div class='col s12 l4'>
+            <div class='col m12 l4'>
               <h4>Users</h4>
               
               <div id='results'></div>
@@ -1249,7 +1249,7 @@ echo "
                 <div class='label'>Photographer</div>
               </div>
             </div>
-            <div class='col s12 l4'>
+            <div class='col m12 l4'>
               <h4>Troops</h4>
 
               <div class='each-result'>
@@ -1280,7 +1280,7 @@ echo "
                 <div class='label nowrap'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi consequatur debitis veritatis dolorum, enim libero!</div>
               </div>
             </div>
-            <div class='col s12 l4'>
+            <div class='col m12 l4'>
               <h4>Posts</h4>
 
               <div class='no-result'>No results were found ;(</div>
