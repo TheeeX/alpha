@@ -1,5 +1,5 @@
 <?php
-include 'main/php/connect.php';
+<!--include 'main/php/connect.php';-->
 
 session_start(); // Start the session
 
