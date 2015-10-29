@@ -174,7 +174,7 @@ echo "
     .yay-push     - push content to right
     .yay-shrink   - shrink content width
 -->
-  <aside class='yaybar yay-shrink yay-hide-to-small yay-gestures'>
+  <aside class='yaybar yay-overlay yay-gestures'>
 
     <div class='top'>
       <div>
