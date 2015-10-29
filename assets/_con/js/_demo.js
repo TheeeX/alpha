@@ -58,12 +58,12 @@
         UnderSidebar: 'navbar-under',
         Color: {
           Dark: 'navbar-dark',
-          Light: ''
+          Light: 'navbar-dark'
         }
       },
       Chat: {
         Color: {
-          Dark: '',
+          Dark: 'chat-dark',
           Light: 'chat-light'
         }
       },
