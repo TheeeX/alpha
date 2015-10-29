@@ -1,9 +1,12 @@
 $(window).scroll(function() {
     if ($(document).scrollTop() < 100) {
         $('.navbar-top').removeClass('artist-header_shrink');
+        $('.navbar-top').addClass('headroom-pinned');
+
     }
     if ($(document).scrollTop() > 100) {
 	   $('.navbar-top').addClass('artist-header_shrink');
+       $('.navbar-top').addClass('headroom-unpinned');
 	}
 });
 
@@ -26,6 +29,7 @@ $('#body').bind('mousewheel DOMMouseScroll', function (event) {
 $(document).ready(function() {
  	if ($(document).scrollTop() > 100) {
 	   $('.navbar-top').addClass('artist-header_shrink');
+       $('.navbar-top').addClass('headroom-unpinned');
 	}
 });
     
