@@ -1539,6 +1539,9 @@ echo "
   <!-- Main js -->
   <script type='text/javascript' src='main/js/main.js'></script>
 
+  <!-- Navbar js -->
+  <script type='text/javascript' src='main/js/navbar.js'></script>
+
   <!-- DEMO [REMOVE IT ON PRODUCTION] -->
   <script type='text/javascript' src='assets/_con/js/_demo.js'></script>
 

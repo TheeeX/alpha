@@ -29,13 +29,13 @@
   width:auto!important;
 }
 
-.headroom--pinned {
+.headroom-pinned {
     -webkit-transform: translateY(0%);
     -ms-transform: translateY(0%);
     transform: translateY(0%);
 }
 
-.headroom--unpinned {
+.headroom-unpinned {
     -webkit-transform: translateY(-91px);
     -ms-transform: translateY(-91px);
     transform: translateY(-91px);
