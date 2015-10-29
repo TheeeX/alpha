@@ -956,7 +956,7 @@ echo "
   
   <div class='col m12 l3'>
   
-        <div class='card'>
+        <div class='card-panel'>
              <form action='' accept-charset='UTF-8' id='form_update_post' method='post' role='form' >
                    <!-- To -->
                    <div class='input-field'>
@@ -1065,6 +1065,31 @@ echo "
           </div>
         </div>
         <!-- /test -->
+          <!-- Statistics -->
+        <div class='card profile-skills'>
+          <div class='title'>
+            <h5><i class='fa fa-bar-chart'></i> Statistics</h5>
+            <a class='close' href='page-profile.html#'>
+              <i class='mdi-content-clear'></i>
+            </a>
+            <a class='minimize' href='page-profile.html#'>
+              <i class='mdi-navigation-expand-less'></i>
+            </a>
+          </div>
+          <div class='content'>
+            <div class='row center-align' style='margin-top: 0'>
+              <div class='col m6 m12'>
+                <strong>87</strong>
+                <h5>Following</h5>
+              </div>
+              <div class='col m6 m12'>
+                <strong>12</strong>
+                <h5>Followers</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- /Statistics -->
         
   </div>
   
