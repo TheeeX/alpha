@@ -3,7 +3,7 @@
 $dbhost = 'localhost';
 $dbname = 'artistarc_alpha';
  
-// connect to mongodb
+// connect to mongodb MongoLab
 //$m = new MongoClient();
 $m = new MongoClient( "mongodb://karanjeet96:wazxdws123@ds052408.mongolab.com:52408/artistarc_alpha" ); // connect to a remote host at a given port
 
