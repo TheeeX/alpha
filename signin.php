@@ -1,7 +1,5 @@
 <?php
 
-include 'main/php/connect.php';
-
 echo "
 <!DOCTYPE html>
 <!--[if lt IE 7]>  <html class='lt-ie7'> <![endif]-->
