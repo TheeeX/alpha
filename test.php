@@ -1,4 +1,7 @@
 <?php
+    
+include 'main/php/connect.php';
+
 echo "test";
 ?>
 
