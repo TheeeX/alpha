@@ -34,3 +34,13 @@ $cursor = $collection->find();
     echo 'Caught exception: ',  $e->getMessage(), "<br />";
 }
 ?>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>home</title>
+    </head>
+    <body>
+        sknsdksndk
+    </body>
+</html>
