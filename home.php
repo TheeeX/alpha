@@ -982,7 +982,7 @@ echo "
 	          </a>
 	     </div>
 	     <figure class='hover-effect effect-zoe'>
-		<img src='assets/_con/images/image-2.jpeg' style='width:100%;height:200px;'>
+		<img src='assets/_con/images/image-2.jpeg' style='min-width:0px!important;'>
 <!-- 	        <span class='card-title' style='background'>Card Title</span> -->
 		      <figcaption>
                            <h2>Creative <span>Zoe</span></h2>
