@@ -83,7 +83,7 @@
       Static: false,
       OverlapContent: false,
       Color: 'Dark', // dark, light
-      ShowType: 'Shrink' // shrink, push, overlay
+      ShowType: 'Overlay' // shrink, push, overlay
     },
     Navbar: {
       Static: false,
