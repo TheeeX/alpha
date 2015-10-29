@@ -117,6 +117,8 @@ echo"
 
       <!-- Menu -->
       <ul>
+      <li><a href='#' id='stream-call' class='stream-call'><i class='mdi-action-search'></i></a>
+        </li>
         <li><a href='page-profile.html#!' class='search-bar-toggle'><i class='mdi-action-search'></i></a>
         </li>
         <li><a href='page-profile.html#!' class='lighten-3 grey-text z-depth-0 chat-toggle'><i class='fa fa-comments'></i></a>

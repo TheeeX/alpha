@@ -7,3 +7,8 @@ $(document).ready(function() {
 $('.navbar-top').click(function(event) {
 	$('#stream').toggleClass('active');
 	});
+
+$('#stream-call').click(function (event) {
+	    //alert('now');
+	    $('#stream').show('toggle');
+	});
