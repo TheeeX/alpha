@@ -4,3 +4,6 @@
 .minw-100p{
   min-width: 100%!important;
 }
+.minw-0p{
+  min-width: 0px!important;
+}

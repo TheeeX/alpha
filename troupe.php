@@ -59,9 +59,9 @@ echo "
   <link rel='stylesheet' type='text/css' href='assets/_con/css/_con.min.css' />
   
   <!-- Style -->
-  <link rel='stylesheet' type='text/css' href='assets/css/style.css' />
-  <link rel='stylesheet' type='text/css' href='assets/css/scaler.css' />
-  <link rel='stylesheet' type='text/css' href='assets/css/helper.css' />
+  <link rel='stylesheet' type='text/css' href='main/css/style.css' />
+  <link rel='stylesheet' type='text/css' href='main/css/scaler.css' />
+  <link rel='stylesheet' type='text/css' href='main/css/helper.css' />
 
   <!--[if lt IE 9]>
     <script src='assets/html5shiv/html5shiv.min.js'></script>
@@ -553,8 +553,8 @@ echo "
                                        <i class='mdi-navigation-expand-less'></i> 
                                     </a>
                                 </div>
-                                <figure class='hover-effect effect-zoe minw-100p'>
-                                <img src='assets/_con/images/image-2.jpeg' style='width:100%;height:200px;'>
+                                <figure class='hover-effect effect-zoe minw-0p'>
+                                <img src='assets/_con/images/image-2.jpeg' '>
 <!--                            <span class='card-title' style='background'>Card Title</span> -->
                                 <figcaption>
                                 <h2>Creative <span>Zoe</span></h2>
@@ -597,8 +597,8 @@ echo "
                                        <i class='mdi-navigation-expand-less'></i> 
                                     </a>
                                 </div>
-                                <figure class='hover-effect effect-zoe minw-100p'>
-                                <img src='assets/_con/images/image-2.jpeg' style='width:100%;height:200px;'>
+                                <figure class='hover-effect effect-zoe minw-0p'>
+                                <img src='assets/_con/images/image-2.jpeg'>
 <!--                            <span class='card-title' style='background'>Card Title</span> -->
                                 <figcaption>
                                 <h2>Creative <span>Zoe</span></h2>
@@ -641,8 +641,8 @@ echo "
                                        <i class='mdi-navigation-expand-less'></i> 
                                     </a>
                                 </div>
-                                <figure class='hover-effect effect-zoe minw-100p'>
-                                <img src='assets/_con/images/gallery-8.jpg' style='width:100%;height:200px;'>
+                                <figure class='hover-effect effect-zoe minw-0p'>
+                                <img src='assets/_con/images/gallery-8.jpg' >
 <!--                            <span class='card-title' style='background'>Card Title</span> -->
                                 <figcaption>
                                 <h2>Creative <span>Zoe</span></h2>
