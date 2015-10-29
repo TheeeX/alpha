@@ -86,10 +86,11 @@ echo "
 </head>
 
 <body id='body'>
-<!-- [ stream container ] -->
-<div class='container-fluid stream' id='stream' aria-hidden='true'>
-</div>
+<!-- [ stream container ] -->";
 
+include 'module/stream.php';
+
+echo"
   <!--
   Top Navbar
     Options:
