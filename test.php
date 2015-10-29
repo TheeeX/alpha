@@ -1,6 +1,6 @@
 <?php
     
-include 'main/php/connect.php';
+include "main/php/connect.php";
 
 echo "test";
 ?>
