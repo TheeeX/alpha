@@ -1,17 +1,8 @@
 /*!
- * Name: Con - Admin Dashboard with Material Design
- * Version: 2.3.0
- * Author: nK
- * Website: http://nkdev.info
- * Support: http://nk.ticksy.com
- * Purchase: http://themeforest.net/item/con-material-admin-dashboard-template/10621512?ref=nKdev
- * License: You must have a valid license purchased only from themeforest(the above link) in order to legally use the theme for your project.
- * Copyright 2015.
- */
-/*
- *
- * Demo script to create settings form
- * and change some theme options
+ * Name: Karan Jeet
+ * Version: 2.1.0
+ * Author: KJ
+ * Website: http://artistarc.xyz
  *
  */
 !function() {
@@ -87,8 +78,8 @@
       Color: 'blue'
     },
     Sidebar: {
-      Hide: false,
-      HideToSmall: true,
+      Hide: true,
+      HideToSmall: false,
       Static: false,
       OverlapContent: false,
       Color: 'Dark', // dark, light
@@ -97,7 +88,7 @@
     Navbar: {
       Static: false,
       UnderSidebar: false,
-      Color: 'Light'
+      Color: 'Dark'
     },
     Chat: {
       Color: 'Dark'
