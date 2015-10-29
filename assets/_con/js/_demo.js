@@ -87,7 +87,7 @@
     },
     Navbar: {
       Static: false,
-      UnderSidebar: false,
+      UnderSidebar: true,
       Color: 'Dark'
     },
     Chat: {
