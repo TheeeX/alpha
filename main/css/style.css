@@ -6,13 +6,13 @@
 
 .stream-container{
     padding-bottom: 0!important;
-    padding-top: 165px!important;
+    padding-top: 45px!important;
     padding-left: 6px!important;
     padding-right: 6px!important;
 }
 
 .artist-header{
-  height:180px!important;
+  height:auto;
 }
 
 .li-auto-width{
@@ -28,16 +28,3 @@
   height:60px!important;
   width:auto!important;
 }
-
-.headroom-pinned {
-    -webkit-transform: translateY(0%);
-    -ms-transform: translateY(0%);
-    transform: translateY(0%);
-}
-
-.headroom-unpinned {
-    -webkit-transform: translateY(-91px);
-    -ms-transform: translateY(-91px);
-    transform: translateY(-91px);
-}
-

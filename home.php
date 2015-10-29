@@ -473,9 +473,6 @@ echo "
 
   <!-- Main Content -->
   <section class='content-wrap stream-container'>
-
-   
-    
 <!--********************-->
 <!-- [ Main Container ] -->
 <!--********************-->
