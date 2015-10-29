@@ -95,7 +95,7 @@ echo "
       .navbar-static - static navbar
       .navbar-under - under sidebar
 -->
-  <nav class='navbar-top artist-header'>
+  <nav class='navbar-top artist-header navbar-dark'>
     <div class='nav-wrapper'>
 
       <!-- Sidebar toggle -->
